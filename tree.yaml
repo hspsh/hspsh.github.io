@@ -13,6 +13,7 @@ nodes:
     requires:
       - Serwer Artur
   - title: Serwer Artur
+    docs: https://wiki.hsp.sh/arthur
     requires:
       - Mikrotik
 
@@ -35,3 +36,13 @@ nodes:
   - title: Mikrotik
     link: http://192.168.88.1/
 
+
+  - title: Hsp Tech Tree
+    link: https://hspsh.github.io/tree.svg
+    repository: https://github.com/hspsh/hspsh.github.io
+    requires:
+      - Tech Tree
+
+  - title: Tech Tree
+    link: https://github.com/hspsh/tech-tree/pkgs/container/tech-tree
+    repository: https://github.com/hspsh/tech-tree
