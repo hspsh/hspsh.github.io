@@ -1,0 +1,27 @@
+name: Generate Tech Tree
+on:
+  push:
+    branches: [ master ]
+env:
+  TECH_TREE_DOCKER: ghcr.io/hspsh/tech-tree:issue-10-dockerfile
+jobs:
+  generate-tech-tree:
+    name: Generate Tech Tree
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Run the build process with Docker
+        uses: addnab/docker-run-action@v3
+        with:
+            image: ${{ env.TECH_TREE_DOCKER }}
+            options: -v ${{ github.workspace }}:/data
+            run: |
+                java -jar /app/app.jar /data/tree.yaml > /data/tree.svg
+      - name: display generated svg 
+        run: cat tree.svg
+        shell: bash
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: updated tree.svg
+          file_pattern: tree.svg
