@@ -63,8 +63,11 @@
 <!-- Mikrotik -->
 <g id="node5" class="node">
 <title>Mikrotik</title>
+<g id="a_node5"><a xlink:href="http://192.168.88.1/" xlink:title="Mikrotik">
 <polygon fill="none" stroke="black" points="216,-36 139,-36 139,0 216,0 216,-36"/>
-<text text-anchor="middle" x="177.5" y="-14.3" font-family="Times,serif" font-size="14.00">Mikrotik</text>
+<text text-anchor="middle" x="177.5" y="-14.3" font-family="Times,serif" font-size="14.00" fill="blue">Mikrotik</text>
+</a>
+</g>
 </g>
 <!-- Serwer Artur&#45;&gt;Mikrotik -->
 <g id="edge5" class="edge">
@@ -128,6 +131,30 @@
 <title>Node Red&#45;&gt;Pierdolony Srattus Gdzie On Kurwa Jest</title>
 <path fill="none" stroke="black" d="M439.5,-133.83C439.5,-133.83 439.5,-108.41 439.5,-108.41"/>
 <polygon fill="black" stroke="black" points="436,-133.83 439.5,-143.83 443,-133.83 436,-133.83"/>
+</g>
+<!-- Hsp Tech Tree -->
+<g id="node10" class="node">
+<title>Hsp Tech Tree</title>
+<g id="a_node10"><a xlink:href="https://github.com/hspsh/tech-tree" xlink:title="Hsp Tech Tree">
+<polygon fill="none" stroke="black" points="224,-324 105,-324 105,-288 224,-288 224,-324"/>
+<text text-anchor="middle" x="164.5" y="-302.3" font-family="Times,serif" font-size="14.00" fill="blue">Hsp Tech Tree</text>
+</a>
+</g>
+</g>
+<!-- Tech Tree -->
+<g id="node11" class="node">
+<title>Tech Tree</title>
+<g id="a_node11"><a xlink:href="https://github.com/hspsh/tech-tree/pkgs/container/tech-tree" xlink:title="Tech Tree">
+<polygon fill="none" stroke="black" points="207.5,-252 121.5,-252 121.5,-216 207.5,-216 207.5,-252"/>
+<text text-anchor="middle" x="164.5" y="-230.3" font-family="Times,serif" font-size="14.00" fill="blue">Tech Tree</text>
+</a>
+</g>
+</g>
+<!-- Hsp Tech Tree&#45;&gt;Tech Tree -->
+<g id="edge10" class="edge">
+<title>Hsp Tech Tree&#45;&gt;Tech Tree</title>
+<path fill="none" stroke="black" d="M164.5,-277.83C164.5,-277.83 164.5,-252.41 164.5,-252.41"/>
+<polygon fill="black" stroke="black" points="161,-277.83 164.5,-287.83 168,-277.83 161,-277.83"/>
 </g>
 </g>
 </svg>
