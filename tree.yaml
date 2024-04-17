@@ -38,7 +38,7 @@ nodes:
 
 
   - title: Hsp Tech Tree
-    link: https://hspsh.github.io/tree.svg
+    link: https://github.com/hspsh/tech-tree
     repository: https://github.com/hspsh/hspsh.github.io
     requires:
       - Tech Tree
