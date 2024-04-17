@@ -3,7 +3,7 @@ on:
   push:
     branches: [ master ]
 env:
-  TECH_TREE_DOCKER: ghcr.io/hspsh/tech-tree:issue-10-dockerfile
+  TECH_TREE_DOCKER: ghcr.io/hspsh/tech-tree:1.0.1-links
 jobs:
   generate-tech-tree:
     name: Generate Tech Tree
