@@ -1,27 +1,37 @@
 nodes:
-  - title: Tech Tree
-    state: done
-  - title: Outline
-    state: broken
-  - title: Onboarding
-    state: todo
+  - title: Forum
+    link: https://forum.hsp.sh/
     requires:
-      - Tech Tree
-      - Outline
-  - title: Proces Listy Zakupowej
-    state: progress
+      - Nixosidło
+  - title: Nixosidło
+    link: ssh://artur.at.hsp.sh
     requires:
-      - Tech Tree
-      - Outline
-  - title: Kubernetes
-    state: broken
-  - title: FluxCD
-    state: broken
-    requires: 
-      - Kubernetes
-  - title: Syncronium
-    state: broken
-    link: http://example.com
-    docs: https://github.com/hspsh/syncronium
+      - Serwer Artur
+      - Proxmoxx
+  - title: Proxmoxx
+    link: https://192.168.88.239:8006/
     requires:
-      - FluxCD
+      - Serwer Artur
+  - title: Serwer Artur
+    requires:
+      - Mikrotik
+
+
+  - title: Cringe Box
+    link: https://cringe.at.hsp.sh/
+    requires:
+      - Mikrotik
+
+  - title: Mqtt 
+    requires:
+      - Pierdolony Srattus Gdzie On Kurwa Jest
+  - title: Node Red
+    requires:
+      - Pierdolony Srattus Gdzie On Kurwa Jest
+  - title: Pierdolony Srattus Gdzie On Kurwa Jest
+    requires:
+      - Mikrotik
+
+  - title: Mikrotik
+    link: http://192.168.88.1/
+
