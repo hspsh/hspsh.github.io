@@ -1,4 +1,6 @@
 nodes:
+  - title: Zebra
+    image: zebra.png
   - title: Forum
     link: https://forum.hsp.sh/
     requires:
@@ -16,7 +18,6 @@ nodes:
     docs: https://wiki.hsp.sh/arthur
     requires:
       - Mikrotik
-
 
   - title: Cringe Box
     link: https://cringe.at.hsp.sh/
