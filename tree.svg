@@ -23,7 +23,7 @@
          id="tspan6">nie jest tekst na 3 linijki</tspan>-->
     </text>
     <text id="text2" style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7);display:inline" transform="matrix(0.26458333,0,0,0.26458333,-0.1322915,-0.15788144)" xml:space="preserve"/>
-        <image height="8.1542997" id="image1" preserveAspectRatio="none" transform="matrix(1.9495373,0,0,1.9495375,-7.4190797,-50.638137)" width="8.1542997" x="6.9804258" xlink:actuate="onLoad" xlink:href="zebra.png" xlink:show="embed" xlink:type="simple" y="29.149302"/>
+        <image height="8.1542997" id="image1" preserveAspectRatio="none" transform="matrix(1.9495373,0,0,1.9495375,-7.4190797,-50.638137)" width="8.1542997" x="6.9804258" xlink:actuate="onLoad" xlink:href="images/zebra.png" xlink:show="embed" xlink:type="simple" y="29.149302"/>
 </g></svg>
 </g>
 <!-- Forum -->
