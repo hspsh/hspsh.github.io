@@ -1,6 +1,6 @@
 nodes:
   - title: Zebra
-    image: zebra.png
+    image: images/zebra.png
   - title: Forum
     link: https://forum.hsp.sh/
     requires:
