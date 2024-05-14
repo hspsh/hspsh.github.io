@@ -1,15 +1,30 @@
 nodes:
   - title: Zebra
     image: images/zebra.png
+
+- title: Skracacz Linków
+    link: https://u.hsp.sh/admin
+    requires:
+      - Nixosidło
+  - title: Wiki Nowe
+    link: https://docs.hsp.sh/
+    requires:
+      - Nixosidło
+  - title: Wiki Stare
+    link: https://wiki.hsp.sh/
+    requires:
+      - Nixosidło
   - title: Forum
     link: https://forum.hsp.sh/
     requires:
       - Nixosidło
+
   - title: Nixosidło
     link: ssh://artur.at.hsp.sh
     requires:
       - Serwer Artur
       - Proxmoxx
+
   - title: Proxmoxx
     link: https://192.168.88.239:8006/
     requires:
