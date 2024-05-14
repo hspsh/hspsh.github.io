@@ -2,7 +2,7 @@ nodes:
   - title: Zebra
     image: images/zebra.png
 
-- title: Skracacz Linków
+  - title: Skracacz Linków
     link: https://u.hsp.sh/admin
     requires:
       - Nixosidło
