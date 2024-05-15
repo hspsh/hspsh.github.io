@@ -41,11 +41,11 @@ nodes:
 
   - title: Mqtt 
     requires:
-      - Pierdolony Srattus Gdzie On Kurwa Jest
+      - Spratus
   - title: Node Red
     requires:
-      - Pierdolony Srattus Gdzie On Kurwa Jest
-  - title: Pierdolony Srattus Gdzie On Kurwa Jest
+      - Spratus
+  - title: Spratus
     requires:
       - Mikrotik
 
