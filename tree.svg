@@ -327,16 +327,16 @@
     <text id="text2" style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7);display:inline" transform="matrix(0.26458333,0,0,0.26458333,-0.1322915,-0.15788144)" xml:space="preserve"/>
 </g></svg>
 </g>
-<!-- Pierdolony Srattus Gdzie On Kurwa Jest -->
+<!-- Spratus -->
 <g class="node" id="node12">
-<title>Pierdolony Srattus Gdzie On Kurwa Jest</title>
+<title>Spratus</title>
 <polygon fill="none" points="1099,-228 914,-228 914,-132 1099,-132 1099,-228" stroke="black"/>
 <svg xmlns:svg="http://www.w3.org/2000/svg" contentScriptType="application/ecmascript" contentStyleType="text/css" height="96px" id="SVGRoot" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 86.513008 44.55994" width="185px" x="914" xml:space="preserve" y="-228" zoomAndPan="magnify"><defs id="defs1"><rect height="40.633868" id="rect8" width="46.791107" x="16.809114" y="-80.179587"/><rect height="36.996669" id="rect7" width="36.996669" x="24.044075" y="144.42534"/><rect height="59.708419" id="rect6" width="195.00619" x="107.06394" y="23.990182"/><rect height="45.978458" id="rect2" width="297.76965" x="23.490183" y="23.490183"/></defs><g id="layer1" transform="translate(0.1322915,0.15788144)">
 
 
     <text id="text1" style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#000000;fill-opacity:1;stroke:none" transform="scale(0.26458333)" xml:space="preserve"/><rect height="15.79041" id="rect3" style="fill:none;stroke:#000000;stroke-width:0.213403" width="15.79041" x="6.1895208" y="6.1895208"/><rect height="15.805295" id="rect4" ry="0" style="fill:none;stroke:#000000;stroke-width:0.221192" width="51.602829" x="28.187599" y="6.1820784"/><rect height="9.788702" id="rect5" style="fill:none;stroke:#000000;stroke-width:0.264583" width="9.788702" x="6.2293701" y="28.265955"/><rect height="9.788702" id="rect5-1" style="fill:none;stroke:#000000;stroke-width:0.264583" width="9.788702" x="22.233183" y="28.265955"/><rect height="9.788702" id="rect5-9" style="fill:none;stroke:#000000;stroke-width:0.264583" width="9.788702" x="38.236992" y="28.265955"/><rect height="9.788702" id="rect5-9-9" style="fill:none;stroke:#000000;stroke-width:0.264583" width="9.788702" x="54.240807" y="28.265951"/><rect height="9.788702" id="rect5-9-9-8" style="fill:none;stroke:#000000;stroke-width:0.264583" width="9.788702" x="70.244621" y="28.265951"/>
     <text id="text5" style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#000000;fill-opacity:1;stroke:none" transform="matrix(0.26458333,0,0,0.26458333,-0.1322915,-0.15788144)" xml:space="preserve">
-        <tspan id="tspan4" x="107.06445" y="38.146484">Pierdolony Srattus Gdzie On Kurwa Jest
+        <tspan id="tspan4" x="107.06445" y="38.146484">Spratus
         </tspan>
         <!--<tspan
          x="107.06445"
@@ -349,15 +349,15 @@
     <text id="text2" style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7);display:inline" transform="matrix(0.26458333,0,0,0.26458333,-0.1322915,-0.15788144)" xml:space="preserve"/>
 </g></svg>
 </g>
-<!-- Mqtt&#45;&gt;Pierdolony Srattus Gdzie On Kurwa Jest -->
+<!-- Mqtt&#45;&gt;Spratus -->
 <g class="edge" id="edge10">
-<title>Mqtt-&gt;Pierdolony Srattus Gdzie On Kurwa Jest</title>
+<title>Mqtt-&gt;Spratus</title>
 <path d="M970.5,-253.97C970.5,-253.97 970.5,-228.21 970.5,-228.21" fill="none" stroke="black"/>
 <polygon fill="black" points="967,-253.97 970.5,-263.97 974,-253.97 967,-253.97" stroke="black"/>
 </g>
-<!-- Pierdolony Srattus Gdzie On Kurwa Jest&#45;&gt;Mikrotik -->
+<!-- Spratus&#45;&gt;Mikrotik -->
 <g class="edge" id="edge12">
-<title>Pierdolony Srattus Gdzie On Kurwa Jest-&gt;Mikrotik</title>
+<title>Spratus-&gt;Mikrotik</title>
 <path d="M1006.5,-121.97C1006.5,-121.97 1006.5,-48 1006.5,-48 1006.5,-48 949.63,-48 896.09,-48" fill="none" stroke="black"/>
 <polygon fill="black" points="1003,-121.97 1006.5,-131.97 1010,-121.97 1003,-121.97" stroke="black"/>
 </g>
@@ -383,9 +383,9 @@
     <text id="text2" style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7);display:inline" transform="matrix(0.26458333,0,0,0.26458333,-0.1322915,-0.15788144)" xml:space="preserve"/>
 </g></svg>
 </g>
-<!-- Node Red&#45;&gt;Pierdolony Srattus Gdzie On Kurwa Jest -->
+<!-- Node Red&#45;&gt;Spratus -->
 <g class="edge" id="edge11">
-<title>Node Red-&gt;Pierdolony Srattus Gdzie On Kurwa Jest</title>
+<title>Node Red-&gt;Spratus</title>
 <path d="M1072,-253.97C1072,-253.97 1072,-228.21 1072,-228.21" fill="none" stroke="black"/>
 <polygon fill="black" points="1068.5,-253.97 1072,-263.97 1075.5,-253.97 1068.5,-253.97" stroke="black"/>
 </g>
