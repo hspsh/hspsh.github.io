@@ -2,20 +2,33 @@ nodes:
   - title: Zebra
     image: images/zebra.png
 
+  - title: Grafana
+    link: https://grafana.hsp.sh
+    requires:
+      - Nixosidło
+      - SSO
   - title: Skracacz Linków
     link: https://u.hsp.sh/admin
     requires:
       - Nixosidło
+      - SSO
   - title: Wiki Nowe
     link: https://docs.hsp.sh/
     requires:
       - Nixosidło
+      - SSO
   - title: Wiki Stare
     link: https://wiki.hsp.sh/
     requires:
       - Nixosidło
   - title: Forum
     link: https://forum.hsp.sh/
+    requires:
+      - Nixosidło
+      - SSO
+
+  - title: SSO
+    link: ssh://auth.hsp.sh
     requires:
       - Nixosidło
 
