@@ -56,9 +56,12 @@ nodes:
     requires:
       - Spratus
   - title: Node Red
+    link: http://192.168.88.20:1880
     requires:
+      - SSO
       - Spratus
   - title: Spratus
+    link: ssh://admin@192.168.88.20
     requires:
       - Mikrotik
 
